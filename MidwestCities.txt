@@ -1,0 +1,9 @@
+kansascity, 15, 18
+minneapolis, 19, 41
+stlouis, 29, 17
+milwaukee, 34, 35
+chicago, 35, 30
+indianapolis, 42, 22
+cincinnati, 48, 21
+detroit, 49, 33
+cleveland, 53, 31
